@@ -1,4 +1,4 @@
-# Hardik Patel's Portfolio
+# Overleaf Resume LaTeX
 
 Welcome to my portfolio! This document provides an overview of the contents of this repository, showcasing my skills as a Senior Data Analyst. 
 
