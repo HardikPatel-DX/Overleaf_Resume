@@ -6,6 +6,9 @@ Welcome to my portfolio! This document provides an overview of the contents of t
 
 The project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+## Links
+
+Access it here [RESUME][https://www.overleaf.com/read/bkbrnzntsqfp#2485b3]
 
 ## Project Structure
 
